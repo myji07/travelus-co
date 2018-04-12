@@ -57,12 +57,13 @@ https://goo.gl/forms/s3EHa9UNzhISnZVV2
 ## Insights.
 
 *Información incompleta en línea, dificulta el proceso de compra.
+
 *La espera promedio es de 45 minutos en la terminal.
+
 *Los usuario no cuentan con tarjeta de crédito/débito. Falta de confianza al pagar.
 
 ## Landing Page.
 
-![Travelus](heatmap-click-desktop.jpg)
 
 
 
