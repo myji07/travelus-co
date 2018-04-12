@@ -1,5 +1,5 @@
 # Travelus
-![palette](https://user-images.githubusercontent.com/32876178/38587056-bf7d363a-3ce5-11e8-968c-549e0bcbb347.png)
+![travelus](https://user-images.githubusercontent.com/32876178/38665325-c04f0ff8-3e01-11e8-9ceb-ee3c118aedf6.png)
 ### Objetivo del problema:
 
 Optimizar la experiencia de un usuario que se traslada desde la CDMX a Cuernavaca solamente por autobús.
